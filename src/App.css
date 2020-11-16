@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+.mainContainer {
+  padding-top: 30vh;
+  padding-left: 33vw;
+}
+
+html,
+body,
+#root {
+  display: block;
+  background: #FFFFFF;
+  color: #000000;
+  height: 100%;
+  margin: 0%;
+  display: flex;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.buttons {
+  padding-left: 10px;
+  text-decoration: none;
+  color: #13304c;
+}
+
+.buttons:hover {
+  color: #000000;
+}
