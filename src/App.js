@@ -7,7 +7,7 @@ function App() {
       <h1 className="header">Welcome to Derek Wong's website.</h1>
       <h2 className="header">See my projects:</h2>
       <div className="buttonWrapper">
-        <div style={{paddingBottom: "10px"}}>
+        <div style={{ paddingBottom: "10px" }}>
           <a href="/TanningPlanning" className="buttons">
             Tanning Planning - Find out the best time to tan without damaging
             your skin.
@@ -18,6 +18,9 @@ function App() {
             Ponere - Fix your spine with a few stretches.
           </a>
         </div>
+      </div>
+      <div className="github">
+        <a className = "buttons" href="https://github.com/djwong23">Check my Github</a>
       </div>
     </div>
   );

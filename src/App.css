@@ -59,14 +59,20 @@ body,
 
 .buttons {
   text-decoration: none;
-  color: #13304c;
-  padding-bottom: 100px;
+  color: #417cb3;
+  padding-bottom: 10px;
 }
 
 .buttonWrapper {
   padding-left: 10px;
+  padding-bottom: 10px;
 }
 
 .buttons:hover {
   color: #000000;
+}
+
+.github {
+  font-size: 1.5em;
+  font-weight: bold;
 }
