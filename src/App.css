@@ -73,6 +73,8 @@ body,
 }
 
 .github {
+  text-align: center;
+  padding-top: 10px;
   font-size: 1.5em;
   font-weight: bold;
 }

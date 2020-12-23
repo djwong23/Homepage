@@ -19,9 +19,9 @@ function App() {
           </a>
         </div>
       </div>
-      <div className="github">
+      <h3 className="github">
         <a className = "buttons" href="https://github.com/djwong23">Check my Github</a>
-      </div>
+      </h3>
     </div>
   );
 }
